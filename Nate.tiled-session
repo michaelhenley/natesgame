@@ -1,0 +1,32 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "10KMap.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "10KMap.tmx": {
+            "scale": 0.015625,
+            "selectedLayer": -1,
+            "viewCenter": {
+                "x": 670656,
+                "y": 639936
+            }
+        }
+    },
+    "map.height": 10000,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 10000,
+    "openFiles": [
+        "10KMap.tmx"
+    ],
+    "project": "Nate.tiled-project",
+    "recentFiles": [
+        "10KMap.tmx"
+    ]
+}
